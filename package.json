@@ -1,0 +1,21 @@
+{
+  "name": "vanilla",
+  "version": "1.0.0",
+  "description": "JavaScript example starter project",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel serve ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "dependencies": {
+    "three": "0.122.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1",
+    "serve-static": "^1.14.1"
+  },
+  "keywords": [
+    "javascript",
+    "starter"
+  ]
+}

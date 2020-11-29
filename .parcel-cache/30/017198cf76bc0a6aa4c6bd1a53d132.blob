@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Parcel Sandbox</title>
+    <meta charset="UTF-8">
+  </head>
+
+  <body>
+    <div id="app"></div>
+
+    <script src="71fc2b938383d87f69f65c53a7dce4a3"></script>
+  </body>
+</html>
