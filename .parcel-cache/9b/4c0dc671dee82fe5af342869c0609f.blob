@@ -1,1 +1,0 @@
-require('./bundle-manifest').register(JSON.parse("{\"5kUaG\":\"index.HASH_REF_af5d07d48b9a42f0f2d799e18bdd7b5d.js\",\"2I0Wl\":\"scene.HASH_REF_590a1e2cab5da3a372e6143d40d59661.gltf\"}"));
